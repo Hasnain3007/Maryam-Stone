@@ -32,6 +32,7 @@ i {
 
 body {
     background-image: url(./imgs/bg1.jpg);
+    background-position: center;
 }
 
 .headermain {
