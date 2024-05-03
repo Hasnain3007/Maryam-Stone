@@ -7,6 +7,9 @@
     font-weight: 600;
 
 }
+div{
+    overflow-x: hidden;
+}
 
 /* width */
 ::-webkit-scrollbar {
