@@ -117,6 +117,8 @@ nav {
     font-size: 3rem;
     margin-top: 120px;
     font-weight: 600;
+    font-family: "Marko One", serif;
+
 }
 
 .header-contant p {
@@ -160,7 +162,7 @@ nav {
 }
 
 .section1-main p {
-    color: rgb(217, 98, 38);
+    color: rgb(64, 53, 109);
     font-weight: 600;
 }
 
@@ -366,7 +368,7 @@ nav {
 
 .footer p:hover {
     cursor: pointer;
-    color: rgb(217, 98, 38);
+    color: rgb(64, 53, 109);
 }
 
 .footer input {
