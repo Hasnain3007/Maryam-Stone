@@ -29,6 +29,7 @@ i {
 
 body {
     background-image: url(./imgs/bg1.jpg);
+    background-size: 100vw;
 }
 
 .headermain {
