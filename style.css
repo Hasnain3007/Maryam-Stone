@@ -30,6 +30,8 @@ i {
 body {
     background-image: url(./imgs/bg1.jpg);
     overflow-x: hidden!important;
+    background-size: cover;
+    background-position: center;
 }
 
 .headermain {
