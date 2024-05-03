@@ -46,7 +46,8 @@ body {
 
 
 .navigation h1 {
-    font-family: "Permanent Marker";
+    font-family: "Marko One", serif;
+    /* font-family: "Permanent Marker"; */
     font-size: 40px;
     font-weight: 100;
     /* font-style: normal */
@@ -118,7 +119,6 @@ nav {
     margin-top: 120px;
     font-weight: 600;
     font-family: "Marko One", serif;
-
 }
 
 .header-contant p {
@@ -388,5 +388,6 @@ nav {
 }
 
 .copymain p {
+    font-size: 15px;
     margin-top: 20px;
 }
